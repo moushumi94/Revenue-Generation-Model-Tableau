@@ -11,7 +11,7 @@ The dashboard provides a comprehensive view of revenue generation and business p
 ### Revenue Generation Analysis Dashboard
 
 <p align="center">
-  <img src="https://github.com/moushumi94/Pizza-Sales-Report-Analysis-Dashboard-SQL-Power-BI-/blob/main/Screenshot%202026-07-12%20205822.png" width="100%">
+  <img src="https://github.com/moushumi94/Revenue-Generation-Model-Tableau/blob/main/Revenue%20Generation%20Model.png" width="100%">
 </p>
 
 ## 🚀 Key Features
